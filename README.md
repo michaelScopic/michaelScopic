@@ -5,7 +5,7 @@
   I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
 </h3>
 
-<h2 align="left">Discord:</h3>
+<h3 align="left">Discord:</h3>
 <p align="left">Michael_Scopic.sh#0102
 </p>
 
