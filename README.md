@@ -1,20 +1,24 @@
 <h1 align="center"> wooooo intros i love intros wow they are so cool </h1>
 <h2 align="center">Hey there, I'm Michael. </h2>
-<h3 align="left">I'm a Linux enthusiast, computer nerd, and Minecraft veteran (played since late alpha) </h3>
+<h3 align="left">I'm a Linux enthusiast, computer nerd, and Minecraft veteran (playing since late alpha) </h3>
 <h3 align="left">
   I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=ebdbb2&style=flat-square" alt="michaelscopic" /> </p>
+
 <h2 align="left">Discord:</h2>
 <h3 align="center">Michael_Scopic.sh#0102</h3>
 <p align="left">  
+  Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.
+  
   Discord status meaning: 
   
-  Online = active, I will respond to you if you ping me
+  Online = online and active, I will respond to you if you ping me.
   
-  Idle = akf, it might take awhile for me to respond
+  Idle = online but akf, it might take take me a little to respond.
   
-  Offline = at school or sleeping (or I'm busy), I probably won't respond right away
+  Offline = busy (usually at school) or sleeping, I might not respond right away.
   
   Do not disturb = don't ping me I'm probably taking exams at school, I won't respond.
 </p>
