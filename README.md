@@ -1,4 +1,4 @@
-<h1 align="center"> ...an intro? who the hell does intros? why would you- </h1>
+<h1 align="center"> wooooo intros i love intros wow they are so cool </h1>
 <h2 align="center">Hey there, I'm Michael. </h2>
 <h3 align="left">I'm a Linux enthusiast, computer nerd, and I play Minecraft 😎 (minecraft veterans rise up) </h3>
 <h3 align="left">
