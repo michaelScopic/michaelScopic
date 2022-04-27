@@ -1,6 +1,6 @@
 <h1 align="center"> wooooo intros i love intros wow they are so cool </h1>
 <h2 align="center">Hey there, I'm Michael. </h2>
-<h3 align="left">I'm a Linux enthusiast, computer nerd, and I play Minecraft 😎 (minecraft veterans rise up) </h3>
+<h3 align="left">I'm a Linux enthusiast, computer nerd, and Minecraft veteran (played since late alpha) </h3>
 <h3 align="left">
   I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
 </h3>
