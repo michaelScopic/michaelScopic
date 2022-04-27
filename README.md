@@ -5,8 +5,18 @@
   I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
 </h3>
 
-<h3 align="left">Discord:</h3>
-<p align="left">Michael_Scopic.sh#0102
+<h2 align="left">Discord:</h2>
+<h3 align="center">Michael_Scopic.sh#0102</h3>
+<p align="left">  
+  Discord status meaning: 
+  
+  Online = active, I will respond to you if you ping me
+  
+  Idle = akf, it might take awhile for me to respond
+  
+  Offline = at school or sleeping (or I'm busy), I probably won't respond right away
+  
+  Do not disturb = don't ping me I'm probably taking exams at school, I won't respond.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
