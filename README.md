@@ -1,9 +1,10 @@
 <h1 align="center">Hello, I'm Michael. </h3>
 
-## There isn't much to my personality except for computers
-I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran (playing since late alpha).
+### I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran (playing since late alpha).
 
-I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
+ I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or give up. 
+
+ I'm extremely good with computers but ironically doing bad in my computer science class.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=b16286&style=flat-square" alt="michaelscopic" /> </p>
 
