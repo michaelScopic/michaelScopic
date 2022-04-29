@@ -4,7 +4,7 @@ I'm a Linux enthusiast, computer nerd, and Minecraft veteran (playing since late
 
 I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=ebdbb2&style=flat-square" alt="michaelscopic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=b16286&style=flat-square" alt="michaelscopic" /> </p>
 
 # Discord:
 ## Michael_Scopic.sh#0102
