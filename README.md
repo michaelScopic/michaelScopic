@@ -1,6 +1,7 @@
-# wooooo intros i love intros wow they are so cool 
-# Hello, I'm Michael.
-I'm a Linux enthusiast, computer nerd, and Minecraft veteran (playing since late alpha).
+<h1 align="center">Hello, I'm Michael. </h3>
+
+## There isn't much to my personality except for computers
+I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran (playing since late alpha).
 
 I spend a huge majority of my day sitting in front of my computer, typing commands at a terminal until I get frustrated or pass out. 
 
@@ -20,8 +21,8 @@ I spend a huge majority of my day sitting in front of my computer, typing comman
   
 ⛔ Do not disturb = Please try not to ping me, I'm probably taking exams at school, I won't respond.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# Languages/tools that I kinda know (I don't know that much leave me alone):
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="64" height="64"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="128" height="128"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelscopic&show_icons=true&theme=gruvbox&title_color=a89984&text_color=ebdbb2&bg_color=282828&locale=en&layout=compact" alt="most used languages" /></p>
 
