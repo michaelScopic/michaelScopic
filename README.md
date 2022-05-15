@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=b16286&style=flat-square" alt="michaelscopic" /> </p>
 
 # Discord:
-## egg yokes but better#0102
+## Michael_Scopic.sh#0102
 ### **Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
   
 ### Discord status meaning:
