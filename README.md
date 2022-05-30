@@ -20,7 +20,7 @@
   
 ⚪ Offline = Busy (usually at school) or sleeping. If I'm at school I will usually respond. If I'm sleeping, don't expect a response soon.
   
-⛔ Do not disturb = Please try not to ping me, I'm probably taking exams at school, I won't respond.
+⛔ Do not disturb = Please try not to ping me, I usually don't want to be bothered, or I'm taking exams at school. I won't respond.
 
 # Languages/tools that I kinda know (I don't know that much leave me alone):
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="64" height="64"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="128" height="128"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/> </a> </p>
