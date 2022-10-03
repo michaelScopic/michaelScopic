@@ -3,7 +3,7 @@
 ### I'm a Unix enthusiast, computer and hardware nerd, and Minecraft veteran.
  I am learning about DevOps, Unix, and computer hardware.
 
- As a Linux user, I have no friends and therefore mask the pain by entering commands in a terminal or rice my desktop until I have a panic attack. 
+ As a Linux user, I have no friends and therefore mask the pain by entering commands in a terminal or ricing my desktop until I have a panic attack. Pretty fun ngl.
 
  I'm really good with computers and terrible at everything else.
 
