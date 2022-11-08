@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Michael. </h3>
 
 ### I'm a Unix enthusiast, computer and hardware nerd, and Minecraft veteran.
- I am learning about DevOps, Unix, and computer hardware.
+ I'm trying to learn more about DevOps, Unix, and computer hardware.
 
- As a Linux user, I have no friends and therefore mask the pain by entering commands in a terminal or ricing my desktop until I have a panic attack. Pretty fun ngl.
+ As a Linux user, I have no friends and therefore mask the pain by entering commands in a terminal or by ricing my desktop.
 
  I'm really good with computers and terrible at everything else.
 
@@ -22,7 +22,7 @@
   
 ⛔ Do not disturb = Please don't ping me. I'm either in a terrible mood (or recovering from a panic attack) or I'm taking exams. I will not respond unless we are very close.
 
-# Languages/tools that I know
+# Languages/tools that I (kinda) know
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="64" height="64"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="64" height="64"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelscopic&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="michaelscopic" /></p>
