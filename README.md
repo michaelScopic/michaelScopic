@@ -3,7 +3,7 @@
 ### I'm a Unix enthusiast, computer and hardware nerd, and Minecraft veteran.
  I'm trying to learn more about DevOps, Unix, and computer hardware.
 
- As a Linux user, I enter commands in a terminal or by ricing my desktop all day.
+ As a Linux user, I enter commands in a terminal or by rice my desktop all day.
 
  I'm really good with computers and terrible at everything else.
 
