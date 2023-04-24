@@ -1,8 +1,10 @@
 <h1 align="center">Hey hey, I'm Michael. </h3>
 
 ### I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
- I'm trying to learn more about Shell programming and DevOps/cloud automation. 
+ I write Linux automation with Bash and I'm also a Linux DevOps/sysadmin.
 
+ I want to learn Python, Ansible, Terraform, MaaS, and maybe some systems programming languages like C/C++ or Rust.
+ 
  I'm really good with computers and terrible at everything else.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=81a1c1&style=plastic" alt="michaelscopic" /> </p>
