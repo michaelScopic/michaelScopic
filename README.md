@@ -3,7 +3,7 @@
 ### I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
  I write Linux automation with Bash and I'm also a Linux DevOps/sysadmin.
 
- I want to learn Python, Ansible, Terraform, MaaS, and maybe some systems programming languages like C/C++ or Rust.
+ I want to learn Python, Ansible, Terraform, MaaS, and maybe C/C++, JavaScript, and/or Rust.
  
  I'm really good with computers and terrible at everything else.
 
