@@ -19,7 +19,7 @@
   
 🟢 Online = Online and active, I will respond if you ping me.
   
-🌙 Idle = Online but AFK, it might take take me a little to respond (usually within minutes)
+🌙 Idle = Online but AFK, it might take take me a little to respond (usually within minutes). Sometimes I'll appear idle if I'm not in the best of moods. You may still message me, just don't be annoying.
   
 ⚪ Offline = Busy or sleeping. If I'm sleeping, don't expect a response soon.
   
