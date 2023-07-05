@@ -9,13 +9,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=81a1c1&style=plastic" alt="michaelscopic" /> </p>
 
-# Discord: `michael_scopic.zsh`
+# Discord
 
+### _Username:_ `michael_scopic.zsh`
 ### _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
 ### **Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
   
-### Discord status meaning:
+## Discord status meaning:
   
 🟢 Online = Online and active, I will respond if you ping me.
   
