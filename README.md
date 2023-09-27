@@ -1,9 +1,9 @@
-<h1 align="center">Hey hey, I'm Michael. </h3>
+#Hey hey, I'm Michael. 
 
 ### I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
  I write Linux automation with Bash and I'm also a Linux DevOps/sysadmin.
 
- I want to learn Python, Ansible, Terraform, MaaS, and maybe C/C++, JavaScript, and/or Rust.
+ I want to learn Python, Ansible, Terraform, MaaS, C/C++, JavaScript, and Rust.
  
  I'm really good with computers and terrible at everything else.
 
@@ -11,16 +11,16 @@
 
 # Discord
 
-### _Username:_ `michael_scopic.zsh`
-### _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
+ _Username:_ `michael_scopic.zsh`
+_Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
-### **Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
+**Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
   
 ## Discord status meaning:
   
 🟢 Online = Online and active, I will respond if you ping me.
   
-🌙 Idle = Online but AFK, it might take take me a little to respond (usually within minutes). Sometimes I'll appear idle if I'm not in the best of moods. You may still message me, just don't be annoying.
+🌙 Idle = Online but AFK, it might take me a little to respond (usually within minutes). Sometimes I'll appear idle if I'm not in the best of moods. You may still message me, just don't be annoying.
   
 ⚪ Offline = Busy or sleeping. If I'm sleeping, don't expect a response soon.
   
