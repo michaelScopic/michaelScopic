@@ -1,6 +1,7 @@
 #Hey hey, I'm Michael. 
 
-### I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
+ I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
+ 
  I write Linux automation with Bash and I'm also a Linux DevOps/sysadmin.
 
  I want to learn Python, Ansible, Terraform, MaaS, C/C++, JavaScript, and Rust.
