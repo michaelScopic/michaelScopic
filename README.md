@@ -1,4 +1,4 @@
-#Hey hey, I'm Michael. 
+# Hey hey, I'm Michael. 
 
  I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
  
