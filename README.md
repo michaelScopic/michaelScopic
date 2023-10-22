@@ -4,7 +4,7 @@
  
  I write Linux automation with Bash and I'm also a Linux DevOps/sysadmin.
 
- I want to learn Python, Ansible, Terraform, MaaS, C/C++, JavaScript, and Rust.
+ I'm currently learning Python, aiming to learn Ansible, Terraform, Nix, and Rust.
  
  I'm really good with computers and terrible at everything else.
 
@@ -25,7 +25,7 @@ _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
   
 ⚪ Offline = Busy or sleeping. If I'm sleeping, don't expect a response soon.
   
-⛔ Do not disturb = __Please DO NOT ping me__, I am not in a good mood. _I will probably not respond unless we are very close_. This status usually goes away quickly tho :)
+⛔ Do not disturb = __Please DO NOT ping me__, I am not in a good mood. _I will probably not respond unless we are very close._ This status usually goes away quickly :)
 
 <h3 align="left">Languages and tools that I use:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
