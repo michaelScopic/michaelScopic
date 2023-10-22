@@ -1,8 +1,8 @@
 # Hey hey, I'm Michael. 
 
- I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran.
- 
- I write Linux automation with Bash and I'm also a Linux DevOps/sysadmin.
+ I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran. I write Linux automation with Bash. I'm learning more Python too, but I have more languages in my sights for the future.
+
+ I love Sanrio (Kuromi is my favorite character if you couldn't tell), listening to music, and hanging out with my friends.
 
  I'm currently learning Python, aiming to learn Ansible, Terraform, Nix, and Rust.
  
@@ -13,6 +13,7 @@
 # Discord
 
  _Username:_ `michael_scopic.zsh`
+ 
 _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
 **Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
