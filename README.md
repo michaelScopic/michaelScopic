@@ -1,16 +1,18 @@
 # Hey hey, I'm Michael. 
 
- I'm a Linux enthusiast, computer and hardware nerd, and Minecraft veteran. I write Linux automation with Bash. I'm learning more Python too, but I have more languages in my sights for the future.
+I am a Linux enthusiast, computer and hardware nerd, and a Minecraft veteran since late alpha. 
 
- I love Sanrio (Kuromi is my favorite character if you couldn't tell), listening to music, and hanging out with my friends.
+I write Linux automation scripts using Bash. While I am currently learning more Python, I am also planning to delve into other programming languages in the future.
 
- I'm currently learning Python, aiming to learn Ansible, Terraform, Nix, and Rust.
- 
- I'm really good with computers and terrible at everything else.
+I love Sanrio, computers, listening to music, and hanging out with my friends.
+
+I'm really good with computers and terrible at everything else.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelscopic&label=Profile%20views&color=81a1c1&style=plastic" alt="michaelscopic" /> </p>
 
 # Discord
+
+If you need to contact me, please do so on Discord, since I am more active on that than GitHub issues.
 
  _Username:_ `michael_scopic.zsh`
  
