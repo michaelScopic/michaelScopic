@@ -1,6 +1,6 @@
 # Hey hey, I'm Michael. 
 
-I am a Linux enthusiast, computer and hardware nerd, and a Minecraft veteran since late alpha. 
+I am a Linux enthusiast, computer and hardware nerd, and a Minecraft 1.9+ PvPer
 
 I write Linux automation scripts using Bash. While I am currently learning more Python, I am also planning to delve into other programming languages in the future.
 
@@ -19,14 +19,14 @@ If you need to contact me, please do so on Discord, since I am more active on th
 _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
 **Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
-  
+  - If I reject your friend request, just send it again. It will tell me that you actually want to talk to me.  
 ## Discord status meaning:
   
 🟢 Online = Online and active, I will respond if you ping me.
   
 🌙 Idle = Online but AFK, it might take me a little to respond (usually within minutes). Sometimes I'll appear idle if I'm not in the best of moods. You may still message me, just don't be annoying.
   
-⚪ Offline = Busy or sleeping. If I'm sleeping, don't expect a response soon.
+⚪ Offline = Busy, at work, or sleeping. If I'm sleeping, don't expect a response soon.
   
 ⛔ Do not disturb = __Please DO NOT ping me__, I am not in a good mood. _I will probably not respond unless we are very close._ This status usually goes away quickly :)
 
