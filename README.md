@@ -1,8 +1,8 @@
 # Hey hey, I'm Michael. 
 
-I am a Linux enthusiast, computer and hardware nerd, and a Minecraft 1.9+ PvPer
+I am a Linux enthusiast, computer and hardware nerd, and a Minecraft 1.9+ PvPer.
 
-I write Linux automation scripts using Bash. While I am currently learning more Python, I am also planning to delve into other programming languages in the future.
+I write Linux automation scripts using Bash. While I am learning more Python, I plan to delve into other programming languages.
 
 I love Sanrio, computers, listening to music, and hanging out with my friends.
 
@@ -12,14 +12,14 @@ I'm really good with computers and terrible at everything else.
 
 # Discord
 
-If you need to contact me, please do so on Discord, since I am more active on that than GitHub issues.
+If you need to contact me, please do so on Discord, since I am more active on that than GitHub Issues.
 
- _Username:_ `michael_scopic.zsh`
+ **Username:** `michael_scopic.zsh`
  
 _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
-**Note: Please tell me how you found my Discord so that I don't ignore you thinking you're a bot or scammer/troll.**
-  - If I reject your friend request, just send it again. It will tell me that you actually want to talk to me.  
+**Note: Please tell me how you found my Discord so I don't ignore you thinking you're a bot, scammer/troll.**
+  - If I reject your friend request, just send it again. It will tell me that you want to talk to me.  
 ## Discord status meaning:
   
 🟢 Online = Online and active, I will respond if you ping me.
