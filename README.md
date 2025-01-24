@@ -1,10 +1,12 @@
 # Hey hey, I'm Michael. 
 
-I am a Linux enthusiast, computer and hardware nerd, and a Minecraft 1.9+ PvPer.
+I'm a Linux and computer nerd, I play shitty games on Roblox and sometimes play Minecraft.
 
-I write Linux automation scripts using Bash. While I am learning more Python, I plan to delve into other programming languages.
+I mostly write scripts with Bash (lwk the only language I actually understand \[sometimes]), but I plan on (eventually) learning Python and Lua, maybe Rust but I don't think I'll go that low.
 
-I love Sanrio, computers, listening to music, and hanging out with my friends.
+I love Kuromi, music, and bullying kids.
+
+I fw \$B, Title Fight, X, lil peep, Minecraft, chill ppl, and getting high.
 
 I'm really good with computers and terrible at everything else.
 
@@ -19,16 +21,16 @@ If you need to contact me, please do so on Discord, since I am more active on th
 _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
 **Note: Please tell me how you found my Discord so I don't ignore you thinking you're a bot, scammer/troll.**
-  - If I reject your friend request, just send it again. It will tell me that you want to talk to me.  
+  - If I reject your friend request, just send it again. It will tell me that you want to talk to me.
+  - Also please note that I have a life outside of being an asshole online, my response time may be a hit or miss.
+    
 ## Discord status meaning:
   
 🟢 Online = Online and active, I will respond if you ping me.
   
-🌙 Idle = Online but AFK, it might take me a little to respond (usually within minutes). Sometimes I'll appear idle if I'm not in the best of moods. You may still message me, just don't be annoying.
+🌙 Idle = Online but AFK, it might take me a little to respond (usually within minutes).
   
 ⚪ Offline = Busy, at work, or sleeping. If I'm sleeping, don't expect a response soon.
-  
-⛔ Do not disturb = __Please DO NOT ping me__, I am not in a good mood. _I will probably not respond unless we are very close._ This status usually goes away quickly :)
 
 <h3 align="left">Languages and tools that I use:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
