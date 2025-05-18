@@ -4,9 +4,7 @@ I'm a Linux and computer nerd, I play shitty games on Roblox and sometimes play 
 
 I mostly write scripts with Bash (lwk the only language I actually understand \[sometimes]), but I plan on (eventually) learning Python and Lua, maybe Rust but I don't think I'll go that low.
 
-I love Kuromi, music, and bullying kids.
-
-I fw \$B, Title Fight, X, lil peep, Minecraft, chill ppl, and getting high.
+Here for a good time, not a long time.
 
 I'm really good with computers and terrible at everything else.
 
