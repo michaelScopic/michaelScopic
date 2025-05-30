@@ -14,7 +14,7 @@ I'm really good with computers and terrible at everything else.
 
 If you need to contact me, please do so on Discord, since I am more active on that than GitHub Issues.
 
- **Username:** `michael_scopic.zsh`
+ **Username:** `michael_scopic`
  
 _Legacy username (if you need it for some reason): `Michael_Scopic.zsh#0102`_
 
