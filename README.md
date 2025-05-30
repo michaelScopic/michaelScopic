@@ -1,6 +1,6 @@
 # Hey hey, I'm Michael. 
 
-I'm a Linux and computer nerd, I play shitty games on Roblox and sometimes play Minecraft.
+I'm a Linux and computer nerd, I just kinda exist now.
 
 I mostly write scripts with Bash (lwk the only language I actually understand \[sometimes]), but I plan on (eventually) learning Python and Lua, maybe Rust but I don't think I'll go that low.
 
